@@ -14,9 +14,6 @@ workspace.xml
 /js/js.translator/testData/out/
 /js/js.translator/testData/out-min/
 *.idea/
-build/
-!**/src/**/build
-!**/test/**/build
 *.iml
 !**/testData/**/*.iml
 kotlin-ultimate/
