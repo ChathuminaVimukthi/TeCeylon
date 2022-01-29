@@ -1,0 +1,45 @@
+.DS_Store
+.idea/shelf
+/confluence/target
+/dependencies/repo
+/dist
+/local
+/gh-pages
+/ideaSDK
+/clionSDK
+workspace.xml
+*.versionsBackup
+/idea/testData/debugger/tinyApp/classes*
+/jps-plugin/testData/kannotator
+/js/js.translator/testData/out/
+/js/js.translator/testData/out-min/
+*.idea/
+build/
+!**/src/**/build
+!**/test/**/build
+*.iml
+!**/testData/**/*.iml
+kotlin-ultimate/
+node_modules/
+.rpt2_cache/
+*.mwb.bak
+package-lock.json
+*/target/
+.m2
+
+# Python
+**/__pycache__/**
+env/
+*.pyc
+
+# Code Editors
+**/.vscode/**
+**/.idea/**
+
+# Files
+*.tar.gz
+
+# Folders
+data/
+html/
+/.idea/
